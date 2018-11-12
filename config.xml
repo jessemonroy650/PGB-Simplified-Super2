@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.bsdmasterindex.PGB-Simplified-Super"
+        version     = "1.0.0"
+        versionCode = "10" >
+        <!-- https://build.phonegap.com/current-support -->
+        <preference name="phonegap-version" value="cli-7.0.1" />
+
+        <name>PGB Super Simplified</name>
+        <description>A "Phonegap Build" Super Simplified example App</description>
+        <author href="http://bsdmasterindex.com" email="jessemonroy650@yahoo.com">
+        Jesse Monroy
+        </author>
+
+        <!-- Android SECTION -->
+        <platform name="android" />
+    </widget>
